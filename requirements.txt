@@ -1,1 +1,4 @@
-"Flask"  "yfinance"  "pandas"  "gunicorn" 
+Flask
+yfinance
+pandas
+gunicorn
