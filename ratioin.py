@@ -176,7 +176,7 @@ HTML_TEMPLATE = """
 <body class="p-4 md:p-8">
     <div class="max-w-4xl mx-auto bg-white rounded-xl shadow-lg p-6 md:p-8">
         <div class="text-center mb-8">
-            <h1 class="text-3xl md:text-4xl font-bold text-gray-800">Indian Market Financial Analysis</h1>
+            <h1 class="text-3xl md:text-4xl font-bold text-gray-800">Indian Market Financial Analysis by Rakesh KS</h1>
             <p class="text-gray-500 mt-2">Select a company and its competitors to generate a comparative analysis.</p>
         </div>
 
@@ -372,4 +372,5 @@ def index():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
 
